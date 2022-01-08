@@ -3,3 +3,8 @@ this is html assigment working directory.
 we are still adding.
 
 few more lines are addded
+<<<<<<< HEAD
+=======
+
+this is js-assigment branch
+>>>>>>> js-assignment
